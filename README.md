@@ -1,7 +1,6 @@
 # Inference Engine #
 
-## Author: Nam Duong Hoang ##
-### Code for the NxN-Puzzle problem ###
+### Code for the Inference Engine program ###
 
 #### Description: ####
 An inference engine **interprets** and **evaluates** the facts in the knowledge base in order to provide an answer. The program will take provided *facts* and analyse them to return with an answer to the *asked statement*.
